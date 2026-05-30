@@ -23,4 +23,7 @@ This contains multiple CAD files
 <img width="1042" height="378" alt="image" src="https://github.com/user-attachments/assets/f7e5a087-a03c-495b-b086-75964b616e3f" />
 
 # Pictures
-Coming soon!
+Layout
+<img width="1056" height="369" alt="image" src="https://github.com/user-attachments/assets/bcc3c162-742f-4156-b39f-75d61e9f7165" />
+
+
