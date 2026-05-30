@@ -25,5 +25,8 @@ This contains multiple CAD files
 # Pictures
 Layout
 <img width="1056" height="369" alt="image" src="https://github.com/user-attachments/assets/bcc3c162-742f-4156-b39f-75d61e9f7165" />
+Wiring
+<img width="1622" height="619" alt="image" src="https://github.com/user-attachments/assets/bc4d5e6e-13e3-4aff-b568-4ce8f1b95cf9" />
+<img width="799" height="510" alt="image" src="https://github.com/user-attachments/assets/c053c852-6f7f-4346-829e-e3d0ebebffd8" />
 
 
