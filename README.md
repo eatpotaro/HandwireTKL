@@ -8,7 +8,7 @@ Full ISO TKL Layout
 128x32 OLED Display
 
 # How to use
-Handwire all switches and microcontroller according to design
+Handwire all switches and microcontroller according to design  
 Install the software
 
 # CAD files
