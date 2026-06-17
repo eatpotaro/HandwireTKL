@@ -4,7 +4,7 @@ https://stasis.hackclub.com/dashboard/projects/cmpac2el101bb01mrx580xg1o
 
 # Features
 Full ISO TKL Layout
-2 Rotary Encoders
+1 Rotary Encoders
 128x32 OLED Display
 No PCB needed!
 
@@ -42,7 +42,7 @@ Wiring
 | 128×32 I2C OLED Graphic Display | 1 | 4.00 | https://mechboards.co.uk/products/oled-screen?_pos=3&_sid=27145306e&_ss=r |
 | 8mm M2 Screws | 24 | 0.72 | https://mechboards.co.uk/products/kit-components-and-parts?variant=55527712784764 |
 | 12mm M2 Brass Standoff | 12 | 0.36 | https://mechboards.co.uk/products/kit-components-and-parts?variant=55527713014140 |
-| PEC11-4215F-S24 Rotary Encoder | 2 | 8.80 | https://thepihut.com/products/rotary-encoder-extras |
+| PEC11-4215F-S24 Rotary Encoder | 1 | 4.40 | https://thepihut.com/products/rotary-encoder-extras |
 | Solid Core Wire | - | - | - |
 | Solder | - | - | - |
 | 3D Printed Plate, Keycaps, Case | - | - | - |
