@@ -6,6 +6,7 @@ https://stasis.hackclub.com/dashboard/projects/cmpac2el101bb01mrx580xg1o
 Full ISO TKL Layout
 2 Rotary Encoders
 128x32 OLED Display
+No PCB needed!
 
 # How to use
 Handwire all switches and microcontroller according to design  
