@@ -29,4 +29,7 @@ Wiring
 <img width="1622" height="619" alt="image" src="https://github.com/user-attachments/assets/bc4d5e6e-13e3-4aff-b568-4ce8f1b95cf9" />
 <img width="799" height="510" alt="image" src="https://github.com/user-attachments/assets/c053c852-6f7f-4346-829e-e3d0ebebffd8" />
 
+# Bill of Materials
+https://github.com/eatpotaro/HandwireTKL/blob/main/BoM.csv
+
 
