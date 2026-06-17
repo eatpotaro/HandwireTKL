@@ -1,4 +1,4 @@
-<img width="1131" height="455" alt="image" src="https://github.com/user-attachments/assets/f6d5559a-03ee-4ab1-9d13-4ccf8b229bf9" /># Handwiring a TKL Keyboard to replace my old one!
+<img width="1692" height="637" alt="image" src="https://github.com/user-attachments/assets/35231c39-4403-49b2-b65a-95bcdb19804e" /><img width="1131" height="455" alt="image" src="https://github.com/user-attachments/assets/f6d5559a-03ee-4ab1-9d13-4ccf8b229bf9" /># Handwiring a TKL Keyboard to replace my old one!
 see project on stasis here
 https://stasis.hackclub.com/dashboard/projects/cmpac2el101bb01mrx580xg1o
 
@@ -27,8 +27,8 @@ This contains multiple CAD files
 Layout
 <img width="1056" height="369" alt="image" src="https://github.com/user-attachments/assets/bcc3c162-742f-4156-b39f-75d61e9f7165" />
 Wiring
-<img width="1622" height="619" alt="image" src="https://github.com/user-attachments/assets/bc4d5e6e-13e3-4aff-b568-4ce8f1b95cf9" />
-<img width="799" height="510" alt="image" src="https://github.com/user-attachments/assets/c053c852-6f7f-4346-829e-e3d0ebebffd8" />
+<img width="1692" height="637" alt="image" src="https://github.com/user-attachments/assets/a19b30cd-15c1-456f-af40-1c6b465439a0" />
+<img width="1195" height="763" alt="image" src="https://github.com/user-attachments/assets/2f6b740c-90a2-40d0-9fe6-739c4136f4c1" />
 
 # Bill of Materials
 | Component | Quantity | Total Price (£) | Link |
