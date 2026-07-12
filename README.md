@@ -30,6 +30,12 @@ Wiring
 <img width="1692" height="637" alt="image" src="https://github.com/user-attachments/assets/a19b30cd-15c1-456f-af40-1c6b465439a0" />
 <img width="1195" height="763" alt="image" src="https://github.com/user-attachments/assets/2f6b740c-90a2-40d0-9fe6-739c4136f4c1" />
 <img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/877fa5eb-3456-4cfb-921b-36ab071c1e6c" />
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/65e9f227-1b5a-4201-8c06-8c0cbe720c25" />
+<img width="1132" height="569" alt="image" src="https://github.com/user-attachments/assets/247a890d-58ec-46a4-9e51-3ca8de007971" />
+<img width="4000" height="1710" alt="image" src="https://github.com/user-attachments/assets/741156af-c8b6-41f4-aa72-70e499f08825" />
+<img width="4000" height="3000" alt="image" src="https://github.com/user-attachments/assets/9d3b998e-9be1-4774-8344-8141146dfded" />
+
+
 
 
 # Bill of Materials
