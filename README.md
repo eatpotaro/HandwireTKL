@@ -12,8 +12,15 @@ No PCB needed!
 3D print bottom plate, risers, and top plate, or case and top plate
 Handwire all switches and microcontroller according to design
 Install circuitpython and KMK on microcontroller by dragging .uf2 file when in boot mode   
-(see https://github.com/KMKfw/kmk_firmware)
 Install the software (ball.bmp, boid.py, and main.py all in the root directory)
+
+# Firmware Installation Instructions
+Assuming you are using the CPico RP2040 as in the build, download this file  
+https://circuitpython.org/board/raspberry_pi_pico/   
+Then, drag the .uf2 into the microcontroller when it is in boot mode. After that install KMK from here  
+https://github.com/KMKfw/kmk_firmware/archive/refs/heads/main.zip    
+finally, drag in ball.bmp, boid.py, and main.py into the root directory of the microcontroller.        
+See the KMK getting started guide here https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md
 
 # CAD files
 This contains multiple CAD files
