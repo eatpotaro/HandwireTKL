@@ -1,5 +1,5 @@
 <img width="1131" height="455" alt="image" src="https://github.com/user-attachments/assets/f6d5559a-03ee-4ab1-9d13-4ccf8b229bf9" /># Handwiring a TKL Keyboard to replace my old one!
-see project on macondo here
+see project on macondo here   
 https://macondo.hackclub.com/projects/15597
 
 # Features
@@ -9,8 +9,11 @@ Full ISO TKL Layout
 No PCB needed!
 
 # How to use
-Handwire all switches and microcontroller according to design  
-Install the software
+3D print bottom plate, risers, and top plate, or case and top plate
+Handwire all switches and microcontroller according to design
+Install circuitpython and KMK on microcontroller by dragging .uf2 file when in boot mode   
+(see https://github.com/KMKfw/kmk_firmware)
+Install the software (ball.bmp, boid.py, and main.py all in the root directory)
 
 # CAD files
 This contains multiple CAD files
