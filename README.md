@@ -1,6 +1,6 @@
 <img width="1131" height="455" alt="image" src="https://github.com/user-attachments/assets/f6d5559a-03ee-4ab1-9d13-4ccf8b229bf9" /># Handwiring a TKL Keyboard to replace my old one!
-see project on stasis here
-https://stasis.hackclub.com/dashboard/projects/cmpac2el101bb01mrx580xg1o
+see project on macondo here
+https://macondo.hackclub.com/projects/15597
 
 # Features
 Full ISO TKL Layout
