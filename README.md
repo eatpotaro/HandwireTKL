@@ -3,10 +3,10 @@ see project on macondo here
 https://macondo.hackclub.com/projects/15597
 
 # Features
-Full ISO TKL Layout
-1 Rotary Encoders
-128x32 OLED Display
-No PCB needed!
+Full ISO TKL Layout  
+1 Rotary Encoders    
+128x32 OLED Display  
+No PCB needed!  
 
 # How to use
 3D print bottom plate, risers, and top plate, or case and top plate
