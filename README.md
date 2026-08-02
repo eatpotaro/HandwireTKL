@@ -22,6 +22,10 @@ https://github.com/KMKfw/kmk_firmware/archive/refs/heads/main.zip
 finally, drag in ball.bmp, boid.py, and main.py into the root directory of the microcontroller.        
 See the KMK getting started guide here https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md
 
+# Instructions
+Since this runs on KMK, there is no need to compile or build the firmware.    
+Setup the device as per the README and it will work correctly 
+
 # CAD files
 This contains multiple CAD files
 - 3D printed plate
