@@ -1,4 +1,6 @@
-<img width="1131" height="455" alt="image" src="https://github.com/user-attachments/assets/f6d5559a-03ee-4ab1-9d13-4ccf8b229bf9" /># Handwiring a TKL Keyboard to replace my old one!
+<img width="3981" height="1423" alt="image" src="https://github.com/user-attachments/assets/f8eb5af2-6760-4cdb-8aa2-1e15f5bb0c63" />
+
+# Handwiring a TKL Keyboard to replace my old one!
 see project on macondo here   
 (https://macondo.hackclub.com/projects/15845)
 
